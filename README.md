@@ -13,7 +13,7 @@ MAVU is an emotional AI companion designed as a game:
 - A talking animal friend that listens and remembers
 - Gentle voice dialogues (powered by GPT)
 - Daily adventures, stories, and interactive moments
-- A safe emotional space for children
+- A safe emotional space where kids can express themselves
 
 ---
 
@@ -24,9 +24,9 @@ MAVU is an emotional AI companion designed as a game:
 
 - **Login**: not required  
 - **Language**: Russian / English  
-- **Tested with**: children 5–12 y.o. under adult supervision
+- **Tested with**: children under adult supervision
 
-This link demonstrates how MAVU emotionally supports a child through natural dialogue and memory. It is part of our voice-integrated game concept.
+This demo simulates the voice-driven emotional companion at the heart of MAVU.
 
 ---
 
@@ -39,25 +39,26 @@ Watch our 1-minute pitch:
 
 ### 🎨 Features
 
-- Voice interaction (AI + TTS)
-- Emotional memory
-- Game-style interface (in development)
-- Personalized animal avatar
-- Multilingual: RU + EN
-- Parental control & safety alerts
+- Voice interaction with GPT (real-time emotional conversations)
+- Long-term emotional memory and personalization
+- 3D animated animal avatar with AI-generated rigging
+- AI-based character generation (appearance, mood, gestures)
+- Game-style interface with daily activities and dialog trees
+- Multilingual: Russian + English
+- Parental dashboard with safety alerts
 
 ---
 
-### 🧠 Tech stack
+### 🧠 Tech Stack
 
-- ChatGPT / Claude API
-- Convai (voice + memory)
-- Unity (3D avatar + UI)
-- Whisper / TTS for voice pipeline (planned)
-- Local LLM (planned for scale)
+- ChatGPT / Claude API (language + memory engine)
+- Convai (voice + dialogue framework)
+- Unity (visual interface and avatar environment)
+- AI rigging & animation tools (e.g. DeepMotion, ZMO.ai, Ready Player Me)
+- Whisper + TTS integration (for natural speech)
+- LLM optimization for scalability (in roadmap)
 
 ---
 
-**MAVU is a game where kids don’t just win — they grow.**  
-Created with love, psychology, and purpose.  
-
+**MAVU is a game where kids don’t just win — they feel heard.**  
+Our goal is to create emotionally intelligent digital spaces that support, engage, and inspire children — one voice at a time.
