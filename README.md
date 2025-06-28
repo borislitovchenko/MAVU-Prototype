@@ -1,3 +1,4 @@
+docs/logo.png
 <p align="center">
   <img src="docs/mavu-header.png" alt="MAVU logo" width="80%">
 </p>
