@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="E502051B-2904-46B9-B900-C8FE878D57E9.PNG" alt="MAVU logo" width="200"/>
+</p>
 
 <p align="center">
   <img src="docs/mavu-header.png" alt="MAVU logo" width="80%">
