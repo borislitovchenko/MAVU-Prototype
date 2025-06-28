@@ -1,64 +1,54 @@
-# MAVU — Voice-Based Emotional Game for Children
+<p align="center">
+  <img src="docs/mavu-header.png" alt="MAVU logo" width="80%">
+</p>
 
-**MAVU** is not just a game — it’s a companion.  
-A magical voice-based experience where a child talks with a caring AI creature, explores emotions, listens to stories, and finds a friend inside their device.
-
-🎮 Built like a game — but lives like a friend.
-
----
-
-### 💡 What is MAVU?
-
-MAVU is an emotional AI companion designed as a game:
-- A talking animal friend that listens and remembers
-- Gentle voice dialogues (powered by GPT)
-- Daily adventures, stories, and interactive moments
-- A safe emotional space where kids can express themselves
+<h1 align="center">MAVU</h1>
+<p align="center"><i>Voice-based emotional game & AI companion for children</i></p>
 
 ---
 
-### 🧪 MVP Demo
-
-**Interactive prototype** (hosted on ChatGPT):  
-👉 [Try MAVU on ChatGPT](https://chatgpt.com/g/g-68285b2edf208191a705a151f1b7d94d-mavu-tsifrovoi-drug-dlia-liudei-starshe-13-ti-let)
-
-- **Login**: not required  
-- **Language**: Russian / English  
-- **Tested with**: children under adult supervision
-
-This demo simulates the voice-driven emotional companion at the heart of MAVU.
+> 🎮 MAVU is a magical voice-based AI companion.  
+> A child talks to a gentle animal friend — who listens, remembers, and supports.  
+> Built with love, large language models, and a vision for emotionally intelligent technology.
 
 ---
 
-### 🎥 Elevator Pitch
+### 🚀 Live Demo
 
-Watch our 1-minute pitch:  
-[https://your-video-link.com](https://your-video-link.com)
+👉 [**Launch MAVU on ChatGPT**](https://chatgpt.com/g/g-68285b2edf208191a705a151f1b7d94d-mavu-tsifrovoi-drug-dlia-liudei-starshe-13-ti-let)
 
----
-
-### 🎨 Features
-
-- Voice interaction with GPT (real-time emotional conversations)
-- Long-term emotional memory and personalization
-- 3D animated animal avatar with AI-generated rigging
-- AI-based character generation (appearance, mood, gestures)
-- Game-style interface with daily activities and dialog trees
-- Multilingual: Russian + English
-- Parental dashboard with safety alerts
+No login required. Available in **Russian** and **English**.
 
 ---
 
-### 🧠 Tech Stack
+### 🧩 Key Features
 
-- ChatGPT / Claude API (language + memory engine)
-- Convai (voice + dialogue framework)
-- Unity (visual interface and avatar environment)
-- AI rigging & animation tools (e.g. DeepMotion, ZMO.ai, Ready Player Me)
-- Whisper + TTS integration (for natural speech)
-- LLM optimization for scalability (in roadmap)
+- 🗣️ Voice-based interaction with GPT
+- 🧠 Emotional memory and personalization
+- 🐾 3D animated avatar (AI-generated + rigged)
+- 🧸 Game-style interface and daily engagement loops
+- 🌍 Multilingual support
+- 👪 Parental dashboard & emotional alerts
 
 ---
 
-**MAVU is a game where kids don’t just win — they feel heard.**  
-Our goal is to create emotionally intelligent digital spaces that support, engage, and inspire children — one voice at a time.
+### ⚙️ Tech Stack
+
+| Layer             | Technology / Stack                                         |
+|------------------|-------------------------------------------------------------|
+| Dialogue Engine   | ChatGPT / Claude + Convai memory system                   |
+| Voice Stack       | Whisper (ASR), TTS (Azure / ElevenLabs planned)           |
+| Avatar/3D Layer   | Unity + Ready Player Me / DeepMotion + Auto-Rig AI        |
+| UX/Game Loop      | React / WebGL / Voice UI planning                         |
+| Data & Safety     | Local LLM / Analytics (WIP), Emotional flags for parents  |
+
+---
+
+### 📦 Project Structure
+
+```bash
+├── prototype/            # MVP prototype files
+├── docs/                 # Screenshots, branding, diagrams
+├── src/                  # (planned) App source code
+└── README.md
+
